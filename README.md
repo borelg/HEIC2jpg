@@ -16,24 +16,22 @@ Before you start, make sure you have installed:
 
 ## Installation
 
-1. **Clone the Repository**
-2. **Navigate to the Repository Directory:**
-	```
-   cd HEIC2jpg
-   ```
-3. **Install Dependencies**
+1. Clone the Repository
+2. Navigate to the Repository Directory 
+	```cd HEIC2jpg```
+3. Install Dependencies
 	```pip install Wand```
 	
-##Usage
+## Usage
 
 1. Place your HEIC files in the same directory as the script.
 2. Run the script:
 ```python heic2jpg.py```
 3. The converted JPG files will be located in a subfolder named **jpgs**.
 
-##Contributing
+## Contributing
 Feel free to contribute! Contributions, issues, and feature requests are always welcome.
 
-##License
+## License
 This project is distributed under the GPL License. See LICENSE for more details.
 
